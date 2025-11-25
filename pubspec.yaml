@@ -56,6 +56,17 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - ../images/galapagos.jpg
+    - ../images/banos.jpg
+    - ../images/cotopaxi.jpg
+    - ../images/quilotoa.jpeg
+    - ../images/cuenca.jpg
+    - ../images/yasuni.jpg
+    - ../images/malecon.jpg
+    - ../images/otavalo.jpg
+    - ../images/mitad_mundo.jpg
+    - ../images/montanita.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:
